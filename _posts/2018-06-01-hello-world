@@ -5,4 +5,5 @@ title: Hello world!
 
 {{ page.title }}
 ================
-1 June 2018 - Berlin
+
+<p class="meta">1 June 2018 - Berlin</p>
