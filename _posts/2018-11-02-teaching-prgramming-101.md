@@ -1,35 +1,20 @@
 ---
 layout: post
-title: Teaching Intro to Programming
+title: A few things I've learned while teaching programming
 ---
 
 {{ page.title }}
 ================
 
-## The course
+## Donts
 
-- Absolute beginners' course
-- KhanAcademy Intro to JS and Animation
-- Two mentors answering questions, giving ocasional answers
-- The purpose is to honestly answer the questions, "What is programming?"
-
-### What I like
-
-- Dives right into programming
-- Has "real" programming assigments
-- Has a teachers' dashboard!
-- Had a 100% retention rate
-
-### What students like
-
-- No setup
-- Audio lectures with a pair programming feel
-- Gives good error messages
-- Let's students decide if programming is something for them
-
-### What could be better
-
-- Sometimes uses words without introducing them
-- Students still "snooze" through some challenges
-- Not available in languages other than English, although google translate seems to work!
-
+- Don't believe that only _some_ people just "get" it.
+- Don't give lectures, that teaching model is outdated.
+- Don't assume everyone will make progress at the same speed.
+- Don't assume that the students have all the time in the world.
+- Don't assume you don't have to explain yourself.
+- Don't underestimate how confusing `rails new` can be to a beginner.
+- Don't assume your first course design will work.
+- Don't assume students can move on without mastering basics.
+- Don't assume once is enough practice.
+- If you don't wanna repeat yourself, write things down.
