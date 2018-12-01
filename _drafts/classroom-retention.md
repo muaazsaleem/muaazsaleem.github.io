@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Retaining students in an evening class
+date: 2018-11-25
 ---
 
 {{ page.title }}
