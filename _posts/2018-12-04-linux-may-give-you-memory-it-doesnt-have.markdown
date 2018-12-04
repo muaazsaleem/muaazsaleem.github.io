@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: "Linux May Give You Memory It Doesn't Have"  
-date: 2018-12-01T11:24:38+01:00
+date: 2018-12-04T22:11:24+01:00
 ---
 
 A few weeks ago a linux computer under my team's care ( a kubernetes worker node) got totally hung because it ran out of 
